@@ -32,3 +32,7 @@ The saga starts on 21 October, 2026
   * 6 November, I refute CEO's moderator removal action. No response.
   * 7 November, I formally complain to members of the GB about the "invited talk policy violation" by the CEO of FOSS United.
   * 7 November, I send an email to CEO and the other director who hid the post. Title "Final WARNING to the CEO and Directors of FOSS United". Basically calls out a clear governance problem on which I can take action through government agencies. The next day, I gave them a deadline of 5 PM to step aside. Silence rules even after this.
+
+Note: the *real* chronology is even more interesting. It's kept under wraps right now for the sake of storytelling. Watch out for the history of this file, and you will see later how things were planned, what point what info became available, and how I am sure of the downfall is the fiends of FOSSU.
+
+As of now (Nov 11), I am locked out of my forum, and I guess the Staff of FOSS United and their friends are probably spreading some negative vibes about me. My next steps will be delivering on my earlier promise...
