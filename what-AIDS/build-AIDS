@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# Build what-AIDS-FOSS-United.pdf from the markdown source.
+# Requires: pandoc, weasyprint, fonts Inter + Noto Serif + Noto Serif Kannada.
+set -euo pipefail
+
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SRC="$DIR/what-AIDS-FOSS-United.md"
+TEMPLATE="$DIR/AIDS-template.html"
+OUT="$DIR/what-AIDS-FOSS-United.pdf"
+
+for tool in pandoc weasyprint; do
+  command -v "$tool" >/dev/null || { echo "error: $tool not found in PATH" >&2; exit 1; }
+done
+
+TMP="$(mktemp -d)"
+trap 'rm -rf "$TMP"' EXIT
+
+# Lines like "    * item" after a paragraph would render as a code block; un-indent them.
+sed -E 's/^    \* /* /' "$SRC" > "$TMP/src.md"
+
+pandoc "$TMP/src.md" -f markdown -t html5 --toc --toc-depth=2 \
+  --template="$TEMPLATE" -o "$TMP/report.html"
+
+# Base URL = this directory, so relative image paths resolve.
+weasyprint -u "$DIR" "$TMP/report.html" "$OUT"
+
+echo "Built $OUT"

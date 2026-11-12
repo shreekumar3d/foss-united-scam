@@ -1,0 +1,62 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>What AIDS FOSS United</title>
+<style>
+@page { size: A4; margin: 22mm 20mm 22mm 20mm;
+  @top-right { content: "What AIDS FOSS United"; font: 8pt Inter; color: #8a8f98; }
+  @bottom-center { content: counter(page); font: 8.5pt Inter; color: #8a8f98; } }
+@page cover { margin: 0; @top-right { content: none } @bottom-center { content: none } }
+@page toc { @top-right { content: none } }
+html { font-family: "Noto Serif", "Noto Serif Kannada", serif; font-size: 10.5pt; line-height: 1.55; color: #1f2328; }
+body { margin: 0; }
+.cover { page: cover; height: 297mm; box-sizing: border-box; padding: 60mm 22mm 25mm;
+  background: linear-gradient(160deg, #0f2a3d 0%, #13405c 55%, #1b6a7a 100%); color: #fff; position: relative; break-after: page; }
+.cover .kicker { font: 600 10pt Inter; letter-spacing: .18em; text-transform: uppercase; color: #ffb547; }
+.cover h1 { break-before: auto; font: 800 44pt/1.05 Inter; margin: 8mm 0 6mm; border: none; color: #fff; }
+.cover .sub { font: 400 14pt/1.4 Inter; color: #d6e6ee; max-width: 140mm; }
+.cover .rule { width: 30mm; height: 3px; background: #ffb547; margin: 14mm 0 10mm; }
+.cover .eeezy { font: 600 12pt Inter; color: #fff; }
+.cover .eeezy span { display: inline-block; margin-right: 5mm; padding: 2mm 3.5mm; border: 1px solid rgba(255,255,255,.35); border-radius: 2mm; }
+.cover .meta { position: absolute; bottom: 25mm; left: 22mm; right: 22mm; font: 10pt/1.6 Inter; color: #d6e6ee; border-top: 1px solid rgba(255,255,255,.25); padding-top: 5mm; }
+.cover .meta b { color: #fff; }
+nav#TOC { page: toc; break-after: page; }
+nav#TOC::before { content: "Contents"; display: block; font: 700 22pt Inter; color: #13405c; margin-bottom: 8mm; }
+nav#TOC ul { list-style: none; padding-left: 0; margin: 0; }
+nav#TOC > ul > li { font: 600 11pt Inter; margin: 3.2mm 0; }
+nav#TOC ul ul { padding-left: 6mm; }
+nav#TOC ul ul li { font: 400 9.5pt Inter; margin: 1.2mm 0; color: #555; }
+nav#TOC a { color: inherit; text-decoration: none; }
+nav#TOC a::after { content: leader('.') target-counter(attr(href), page); color: #8a8f98; font-weight: 400; }
+h1, h2, h3 { font-family: Inter, "Noto Sans Kannada", sans-serif; color: #13405c; break-after: avoid; line-height: 1.25; }
+h1 { font-size: 20pt; font-weight: 800; margin: 0 0 5mm; padding-bottom: 2.5mm; border-bottom: 2.5px solid #ffb547; break-before: page; }
+h2 { font-size: 14pt; font-weight: 700; margin: 8mm 0 2.5mm; color: #1b6a7a; }
+h3 { font-size: 11.5pt; font-weight: 700; margin: 6mm 0 2mm; color: #333; }
+p { margin: 0 0 3mm; text-align: justify; hyphens: auto; orphans: 3; widows: 3; }
+a { color: #1b6a7a; text-decoration: none; border-bottom: 0.5px solid #9cc7cf; }
+strong { color: #0f2a3d; }
+ul, ol { margin: 0 0 3mm; padding-left: 6mm; } li { margin: 1mm 0; }
+blockquote { margin: 4mm 0; padding: 3mm 5mm; background: #f3f7f9; border-left: 3px solid #1b6a7a; color: #333; font-style: italic; break-inside: avoid; }
+blockquote p:last-child { margin-bottom: 0; }
+figure { margin: 5mm 0; text-align: center; break-inside: avoid; }
+img { max-width: 100%; max-height: 120mm; border: 1px solid #e1e4e8; border-radius: 1.5mm; }
+figcaption { font: 8.5pt Inter; color: #6a737d; margin-top: 2mm; }
+table { border-collapse: collapse; width: 100%; margin: 4mm 0; font-size: 9pt; break-inside: avoid; }
+th { background: #13405c; color: #fff; font: 600 9pt Inter; text-align: left; padding: 2mm 3mm; }
+td { padding: 1.8mm 3mm; border-bottom: 1px solid #e1e4e8; vertical-align: top; }
+tr:nth-child(even) td { background: #f6f8fa; }
+code { font-family: "DejaVu Sans Mono", monospace; font-size: 8.8pt; background: #f3f4f6; padding: 0 1mm; border-radius: 1mm; }
+pre { background: #f6f8fa; padding: 3mm; border-radius: 1.5mm; overflow-wrap: break-word; white-space: pre-wrap; }
+h1#author, h1#reference-material, h1#eeezy-framework, h1#critiquing-this-document { break-before: auto; margin-top: 12mm; }
+h1#introduction + * {}
+hr { border: none; border-top: 1px solid #e1e4e8; margin: 6mm 0; }
+</style></head><body>
+<section class="cover">
+  <div class="kicker">A community report</div>
+  <h1>What AIDS<br>FOSS United</h1>
+  <div class="sub">Corpo-Rate Kumar presents...</div>
+  <div class="rule"></div>
+  <div class="eeezy"><span>Efficiency</span><span>Engagement</span><span>Empathy</span><span>Z</span><span>Y</span></div>
+  <div class="meta"><b>Shree Kumar</b> aka “Corpo-Rate”<br>Special Deepawali/Diwali Release. November 2026. · Licensed CC-BY-SA-4.0</div>
+</section>
+$if(toc)$<nav id="TOC">$table-of-contents$</nav>$endif$
+$body$
+</body></html>

@@ -123,6 +123,8 @@ To appreciate this problem, let's switch to a fun tale from the epics!
 
 ## A Tale of Generosity !
 
+Story text credit: [servicespace](https://www.servicespace.org/blog/view.php?id=15897). This is a very common tale btw, and I just skipped the work of writing it down again. This part is not CC-BY-SA-4.0.
+
 Once Krishna and Arjuna were walking towards a village. Arjuna was pestering Krishna, asking him why Karna should be considered a role model for all Danas (donations) and not himself. Krishna, wanting to teach him a lesson snapped his fingers. The mountains beside the path they were walking on turned into gold. Krishna said "Arjuna, distribute these two mountains of gold among the villagers, but you must donate every last bit of gold".
 
 Arjuna went into the village, and proclaimed he was going to donate gold to every villager, and asked them to gather near the mountain. The villagers sang his praises and Arjuna walked towards the mountain with a huffed up chest. For two days and two continuous nights Arjuna shoveled gold from the mountain and donated to each villager. The mountains did not diminish in their slightest.
