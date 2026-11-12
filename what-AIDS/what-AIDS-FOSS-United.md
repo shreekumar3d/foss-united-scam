@@ -22,7 +22,7 @@ License: CC-BY-SA-4.0
 
 The following links are referrence materials. If you've already seen them, then nothing to be done. They are called out where required in this document
 
-  * "What ails FOSS United" is my well-known 22 page PDF. Accessible [here](../what-ails/what-ails-FOSS-united.pdf).
+  * "What ails FOSS United" is my well-known 22 page PDF. Accessible [here](https://github.com/shreekumar3d/foss-united-scam/what-ails/what-ails-FOSS-united.pdf).
   * Shree's comments delivered as part of the GB reflections session at IndiaFOSS 2026 [YouTube Link](https://youtu.be/16jUf3fLtsw?t=12567)
   * "What must IndiaFOSS be, in 2027?" 10 minute talk in Communi-Con @ IndiaFOSS 2026. [YouTube Link](https://www.youtube.com/watch?v=boNCSaCb138&t=7950s)
   * The Rupee Fund, Governance [https://github.com/RupeeFund/democracy](https://github.com/RupeeFund/democracy)
@@ -342,7 +342,9 @@ Keeping things open is how we ensure that we ALL can live long, and propser!
 To end with, some philosphy, as usual.
 
 ಧರ್ಮೋ ರಕ್ಷತಿ ರಕ್ಷಿತಃ 
+
 धर्मो रक्षति रक्षितः 
+
 dharmo rakshati rakshitaha
 
 English is really a poor language, and nothing can capture the philiosphical essence of that single statement. But try we must!
@@ -396,11 +398,11 @@ This document sets the common minimum program - not a 100% equivalent of whateve
 
 Majority of the work done under FUFv3 would be done by Working Groups(WG), which will have NO employees. That said, WGs will have financial empowerent - which is already part of the current framework.  As a best practise, WGs could be encouraged to maintain some kind of effort tracking.
 
-Who is IN ? Sign up to the Rupee Fund first :) https://rupeefund.org/ . Student or Pro, we need you _bro_! Starts at Rs 15. Let's build a healthy self sustaining  community.  Don't think what the "others" will think or do, do what you must - first ! That's my appeal to you, with folded hands, no less.
+Who is IN ? Sign up to the Rupee Fund first :) [https://rupeefund.org/](https://rupeefund.org/) . Student or Pro, we need you _bro_! Starts at Rs 15. Let's build a healthy self sustaining  community.  Don't think what the "others" will think or do, do what you must - first ! That's my appeal to you, with folded hands, no less.
 
 Yeah - and while you are at it, UpVote my campaign and DownVote the CEO, King and Emperor of FOSS United. Take your pick:
 
-    * Upvote my Signature Campaign on the FOSS United Forum, if you have an account there
+    * Upvote my [Rahul, Resign! Signature Campaign](https://forum.fossunited.org/t/upvote-rahul-resign-signature-campaign/9491) on the FOSS United Forum, if you have an account there
     * Like and SHARE the [same campaign on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7523978760191164416/)
 
 And.. Thank you for your attentinon to this matter !
@@ -409,7 +411,7 @@ And.. Thank you for your attentinon to this matter !
 
 Let me remind you - dear reader - that critiquing this _tome_ will need time and effort. It's a full *system*, not just a single idea. If I explained every aspect in detail, it would become a _thesis_.  So keep that in mind.  Rupee Fund has a lot of governance ideas documented reasonably well - including a moderation system based on "positive" and "negative" karma. Do check those out too.
 
-My request is you let these ideas sink in for a while. Low effort comments such as : "This won't work" or "I think blah blah" won't be useful.  That is no claim btw that this work is perfect. Just saying that having "simple opinions" won't be useful. If something is not clear, do ask w.r.t a clear scenario or example !  If you have a serious comment/critique, explain where you are coming from, what your experience has been, and why something won't work.
+My request is you let these ideas sink in for a while. Low effort comments such as : "This won't work" or "I think blah blah" won't be useful.  That is no claim btw that this work is perfect. Just saying that having "simple opinions" won't be useful. If something is not clear, do ask w.r.t a clear scenario or example !  If you have a serious comment/critique, explain where you are coming from, what your experience has been, and why something won't work. Plus suggest improvements in the same vein.
 
 Let me quote the well-known Ramachandra Guha ([see Twitter Post](https://x.com/Ram_Guha/status/907231613150531584)) to make this point even more clear:
 
