@@ -388,6 +388,8 @@ Overall, we need to use that spirit of community and channel volunteer energy to
 
 # Afterword
 
+So there you have it - if somebody were to put a contemporary political spin on it - then they could just call this my version of "Rahul _mukt_ FOSS United".
+
 Many have noted the sense of urgency in my push here, and even asked me to "slow down". Many Staff are spreading insuinations that I am showing them "malice", and some are calling me negative. Nothing could be farther than the truth. In fact, show me someone in the history of FOSS United who has gone through the pain of documenting at great length not just the problems, but also potential solutions.
 
 There is a reason for my urgency - and it is pure economics: the Salary bill per year of the staff is 1 crore.  Monthly 8 lakh rupees a month. Every week the Staff "works" on their "agendas", the cost to the community is 2 lakh rupees. This is highly wasteful, and even more so in our where funds are in perennial shortage.
